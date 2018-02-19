@@ -1,0 +1,29 @@
+Data Element Name,Category Name,Data Element ID,Category ID,Attribute ID
+HTC Sex or Pregnancy,Male,xFm3g2H7rYl,rxhPVbgP4pP,Tt7fU5lUhAU
+HTC Sex or Pregnancy,Female Non-Pregnant,xFm3g2H7rYl,GI5U1q5ek6G,Tt7fU5lUhAU
+HTC Sex or Pregnancy,Female Pregnant,xFm3g2H7rYl,OB4KZPQ9DBV,Tt7fU5lUhAU
+HTC Age Groups,0 – 11 Months,Dc6QKEixhFt,cm7a3vl1mg6,Tt7fU5lUhAU
+HTC Age Groups,1 – 14 Yrs,Dc6QKEixhFt,GDhAwlfn7is,Tt7fU5lUhAU
+HTC Age Groups,15-24Yrs,Dc6QKEixhFt,nv7fT2s0sVF,Tt7fU5lUhAU
+HTC Age Groups,24  + yrs,Dc6QKEixhFt,GZC0TCVcaQ5,Tt7fU5lUhAU
+HTC Access Type,PITC,XEw4B0IqE4a,YEQbBHPe6p9,Tt7fU5lUhAU
+HTC Access Type,PRS,XEw4B0IqE4a,MyjmA8zSDAo,Tt7fU5lUhAU
+HTC Access Type,Other (VCT etc),XEw4B0IqE4a,bUGcyqOcC07,Tt7fU5lUhAU
+HTC Last HIV Test,Never Tested,KUzYqVPYvtC,KkSLlCndw62,Tt7fU5lUhAU
+HTC Last HIV Test,Prev Negative,KUzYqVPYvtC,N4Nw314xd9b,Tt7fU5lUhAU
+HTC Last HIV Test,Prev Positive,KUzYqVPYvtC,t2vLxuHTRZL,Tt7fU5lUhAU
+HTC Last HIV Test,Prev Exposed Infant,KUzYqVPYvtC,IR1LWFnrBxe,Tt7fU5lUhAU
+HTC Last HIV Test,Prev Inconclusive,KUzYqVPYvtC,Z9RzCoqiBLB,Tt7fU5lUhAU
+HTC Partner Present,Partner Present,Y7lbUZy4NBa,bMzWLKnXvsI,Tt7fU5lUhAU
+HTC Partner Present,Partner Not Present,Y7lbUZy4NBa,TPK6lhdT2Hk,Tt7fU5lUhAU
+HTC Outcome Summary,Single Negative,K0jCoNEwX7R,GPWGZyfWcUJ,Tt7fU5lUhAU
+HTC Outcome Summary,Single Positive,K0jCoNEwX7R,UrgJVrCnE0h,Tt7fU5lUhAU
+HTC Outcome Summary,Test 1&2 Negative,K0jCoNEwX7R,wTtLDAH4Qoe,Tt7fU5lUhAU
+HTC Outcome Summary,Test 1&2 Positive,K0jCoNEwX7R,k7AP18uKcv5,Tt7fU5lUhAU
+HTC Outcome Summary,Test 1&2 Discordant,K0jCoNEwX7R,EjGcN4c0YFU,Tt7fU5lUhAU
+HTC Result Given To Client,New Negative,ZHD7BCMp8bz,I5L8ico3FcO,Tt7fU5lUhAU
+HTC Result Given To Client,New Positive,ZHD7BCMp8bz,HTOc1MdeLFE,Tt7fU5lUhAU
+HTC Result Given To Client,New Positive Infant,ZHD7BCMp8bz,hGy4O0aDidB,Tt7fU5lUhAU
+HTC Result Given To Client,New Inconclusive,ZHD7BCMp8bz,hN0CQsWF91p,Tt7fU5lUhAU
+HTC Result Given To Client,Confirmatory Positive,ZHD7BCMp8bz,yNEd9CP2PBZ,Tt7fU5lUhAU
+HTC Result Given To Client,Confirmatory Inconclusive,ZHD7BCMp8bz,Tns3Y8kFzFj,Tt7fU5lUhAU
